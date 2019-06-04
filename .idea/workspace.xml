@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ATP-Project-PartB:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aec8d3be-ed6c-4450-b1a0-98037b01c3e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server/Configurations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ATP_Project_PartA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATP-Project-PartA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ATP-Project-PartB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/NOTICE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/RELEASE-NOTES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-1.2-api-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-1.2-api-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-1.2-api-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-api-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-api-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-api-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-appserver-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-appserver-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-appserver-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-cassandra-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-cassandra-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-cassandra-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-core-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-core-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-core-2.11.2-tests.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-core-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-couchdb-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-couchdb-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-couchdb-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-flume-ng-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-flume-ng-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-flume-ng-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-iostreams-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-iostreams-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-iostreams-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jcl-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jcl-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jcl-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jdbc-dbcp2-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jdbc-dbcp2-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jdbc-dbcp2-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jmx-gui-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jmx-gui-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jmx-gui-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jpa-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jpa-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jpa-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jul-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jul-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-jul-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-liquibase-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-liquibase-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-liquibase-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-mongodb2-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-mongodb2-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-mongodb2-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-mongodb3-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-mongodb3-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-mongodb3-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-slf4j-impl-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-slf4j-impl-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-slf4j-impl-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-slf4j18-impl-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-slf4j18-impl-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-slf4j18-impl-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-taglib-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-taglib-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-taglib-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-to-slf4j-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-to-slf4j-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-to-slf4j-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-web-2.11.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-web-2.11.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-log4j-2.11.2-bin/log4j-web-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ATP_Project_PartA_jar/ATP-Project-PartA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/IO/MyCompressorOutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/IO/MyDecompressorInputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATP-Project-PartA/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/Server/IServerStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/Server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/mazeGenerators/AMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/mazeGenerators/EmptyMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/mazeGenerators/IMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/mazeGenerators/Maze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/mazeGenerators/MyMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/mazeGenerators/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/mazeGenerators/SimpleMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/ASearchingAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/AState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/AStateComprator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/BestFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/BreadthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/DepthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/ISearchable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/ISearchingAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/MazeState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/SearchableMaze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/algorithms/search/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/test/RunCompressDecompressMaze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/test/RunMazeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATP-Project-PartA/test/RunSearchOnMaze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/ATP-Project-PartA/algorithms/search/JUnitTestingBestFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/savedMaze.maze" beforeDir="false" afterPath="$PROJECT_DIR$/savedMaze.maze" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/MyCompressorOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IO/MyCompressorOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/MyDecompressorInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IO/MyDecompressorInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/IServerStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/IServerStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/ServerStrategyGenerateMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/ServerStrategyGenerateMaze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/ServerStrategySolveSearchProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/ServerStrategySolveSearchProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/EmptyMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/EmptyMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/IMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/IMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mazeGenerators/SimpleMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/mazeGenerators/SimpleMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/ASearchingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/ASearchingAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/AState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/AState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/AStateComprator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/AStateComprator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/BestFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/BestFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/BreadthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/BreadthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/DepthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/ISearchable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/ISearchable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/ISearchingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/ISearchingAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/MazeState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/MazeState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/SearchableMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/SearchableMaze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/search/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/search/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/RunCompressDecompressMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/RunCompressDecompressMaze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/RunMazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/RunMazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/RunSearchOnMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/RunSearchOnMaze.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ATP_Project_PartA$Main.ic" NAME="Main Coverage Results" MODIFIED="1555501645811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ATP-Project-PartA" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>open.put</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Algorithms/mazeGenerators/EmptyMazeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/mazeGenerators/Maze.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/mazeGenerators/SimpleMazeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/mazeGenerators/Position.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/mazeGenerators/MyMazeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/MazeState.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/AState.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/ISearchingAlgorithms.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/ISearchable.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/ASearchingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/BreadthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/search/BreadthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/test/RunMazeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/ASearchingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/SearchableMaze.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/BestFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/AStateComprator.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/JUnit/algorithms/search/BestFirstSearchTest.java" />
+        <option value="$PROJECT_DIR$/src/JUnit/algorithms/search/JUnitTestingBestFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/BreadthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/JUnit/algorithms/search/JUnitTestingBestFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/test/RunCompressDecompressMaze.java" />
+        <option value="$PROJECT_DIR$/src/Server/IServerStrategy.java" />
+        <option value="$PROJECT_DIR$/src/Client/IClientStrategy.java" />
+        <option value="$PROJECT_DIR$/src/Client/Client.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/Position.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/AState.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/MazeState.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/search/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Server/Server.java" />
+        <option value="$PROJECT_DIR$/src/IO/MyCompressorOutputStream.java" />
+        <option value="$PROJECT_DIR$/src/IO/MyDecompressorInputStream.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerStrategySolveSearchProblem.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerStrategyGenerateMaze.java" />
+        <option value="$PROJECT_DIR$/src/Server/Configurations.java" />
+        <option value="$PROJECT_DIR$/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/test/RunCommunicateWithServers.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="816" />
+    <option name="height" value="576" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ATP-Project-PartA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP-Project-PartA" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559497253708" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="algorithms.search" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Algorithms" />
+      <recent name="Algorithms.mazeGenerators" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aviel Hageverezach\IdeaProjects\ATP-Project-PartA\src\test" />
+      <recent name="C:\Users\Aviel Hageverezach\IdeaProjects\ATP-Project-PartA\src\IO" />
+      <recent name="C:\Users\Aviel Hageverezach\IdeaProjects\ATP-Project-PartA\src\algorithms\mazeGenerators" />
+      <recent name="C:\Users\Aviel Hageverezach\IdeaProjects\ATP-Project-PartA\src\algorithms\search" />
+      <recent name="C:\Users\Aviel Hageverezach\IdeaProjects\ATP-Project-PartA\src\Algorithms\search" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test.RunCommunicateWithServers" />
+      <module name="ATP-Project-PartB" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitTestingBestFirstSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ATP-Project-PartB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="algorithms.search" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.search.JUnitTestingBestFirstSearch" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.JUnitTestingBestFirstSearch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.JUnitTestingBestFirstSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec8d3be-ed6c-4450-b1a0-98037b01c3e1" name="Default Changelist" comment="" />
+      <created>1553506893354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553506893354</updated>
+      <workItem from="1553506897398" duration="1165000" />
+      <workItem from="1553706242724" duration="4691000" />
+      <workItem from="1553761767522" duration="13741000" />
+      <workItem from="1554306832349" duration="7696000" />
+      <workItem from="1554455534528" duration="510000" />
+      <workItem from="1554563721953" duration="563000" />
+      <workItem from="1554705144734" duration="4568000" />
+      <workItem from="1554972860840" duration="5930000" />
+      <workItem from="1555312079784" duration="9730000" />
+      <workItem from="1555498789353" duration="6372000" />
+      <workItem from="1556447671949" duration="4654000" />
+      <workItem from="1556534123605" duration="40000" />
+      <workItem from="1556713237948" duration="363000" />
+      <workItem from="1556789685003" duration="1837000" />
+      <workItem from="1556875178963" duration="186000" />
+      <workItem from="1556875400946" duration="214000" />
+      <workItem from="1556875941524" duration="917000" />
+      <workItem from="1557128973442" duration="25609000" />
+      <workItem from="1557387877859" duration="1564000" />
+      <workItem from="1557486238528" duration="216000" />
+      <workItem from="1557837678199" duration="3679000" />
+      <workItem from="1557841816520" duration="4902000" />
+      <workItem from="1558945065569" duration="72000" />
+      <workItem from="1559496729530" duration="538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JUnitTestingBestFirstSearch - 2019.04.08 at 12h 08m 10s.xml">
+      <configuration name="JUnitTestingBestFirstSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitTestingBestFirstSearch - 2019.04.08 at 12h 09m 07s.xml">
+      <configuration name="JUnitTestingBestFirstSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitTestingBestFirstSearch - 2019.04.08 at 12h 09m 25s.xml">
+      <configuration name="JUnitTestingBestFirstSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitTestingBestFirstSearch - 2019.04.08 at 12h 10m 31s.xml">
+      <configuration name="JUnitTestingBestFirstSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitTestingBestFirstSearch - 2019.04.08 at 12h 15m 26s.xml">
+      <configuration name="JUnitTestingBestFirstSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitTestingBestFirstSearch - 2019.04.08 at 12h 16m 40s.xml">
+      <configuration name="JUnitTestingBestFirstSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitTestingBestFirstSearch - 2019.04.08 at 12h 17m 23s.xml">
+      <configuration name="JUnitTestingBestFirstSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitTestingBestFirstSearch - 2019.04.17 at 14h 02m 36s.xml">
+      <configuration name="JUnitTestingBestFirstSearch" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99757000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.13006397" />
+      <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.29957357" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5016129" side_tool="true" weight="0.29957357" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="22" y="284" width="332" height="472" id="Run" order="2" sideWeight="0.50053304" weight="0.3163597" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.31744313" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.3802817" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.22968581" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" x="22" y="284" width="332" height="472" id="Run" order="2" sideWeight="0.50053304" visible="true" weight="0.34777898" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.32827735" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.3802817" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.22968581" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this.CurrMaze[2]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/EmptyMazeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/SimpleMazeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <element signature="e#3571#3572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/RunMazeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/DepthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/ISearchingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/ISearchable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JUnit/algorithms/search/BestFirstSearchTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/JUnit/algorithms/search/JUnitTestingBestFirstSearch.java" />
+    <entry file="file://$PROJECT_DIR$/JUnit/algorithms/search/JUnitTestingBestFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/DataOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/ObjectOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/FileDescriptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="e#1916#1917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/IServerStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/IClientStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/AMazeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/ASearchingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/BreadthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/SearchableMaze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#1095#1103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/BestFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/AState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding>
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1399#1400#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/MazeState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/MyMazeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/RunCompressDecompressMaze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="36" selection-start-line="36" selection-end-line="37" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/mazeGenerators/Maze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/search/AStateComprator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IO/MyDecompressorInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IO/MyCompressorOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#1569#1570#0" expanded="true" />
+            <element signature="e#1595#1596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerStrategySolveSearchProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/Configurations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="84" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerStrategyGenerateMaze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/RunCommunicateWithServers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1127" selection-start-line="1127" selection-end-line="1127" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ATPProjectJAR:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Assignment4 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ATP-Project-PartB</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: Arquillian JUnit:Release</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
